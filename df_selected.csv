@@ -1,0 +1,31 @@
+lead_id,date,channel,device,company_size,sector,region,status,cost,impressions,clicks,conversions
+201,2025-10-02,Emailing,Desktop,1-10,SaaS,Île-de-France,MQL,1500,60000,1800,150
+202,2025-10-03,Google Ads,Mobile,10-50,Industry,Hauts-de-France,SQL,4200,120000,3200,260
+203,2025-10-04,LinkedIn Ads,Desktop,50-100,Finance,PACA,Client,3800,50000,1100,95
+204,2025-10-05,Emailing,Mobile,1-10,HealthTech,Occitanie,MQL,1500,60000,1800,150
+205,2025-10-06,Google Ads,Tablet,100-500,Retail,Auvergne-Rhône-Alpes,SQL,4200,120000,3200,260
+206,2025-10-07,LinkedIn Ads,Desktop,50-100,SaaS,Île-de-France,Client,3800,50000,1100,95
+207,2025-10-08,Emailing,Mobile,10-50,Education,Nouvelle-Aquitaine,MQL,1500,60000,1800,150
+208,2025-10-09,Google Ads,Desktop,100-500,Industry,Grand Est,SQL,4200,120000,3200,260
+209,2025-10-10,LinkedIn Ads,Mobile,50-100,Finance,Île-de-France,Client,3800,50000,1100,95
+210,2025-10-11,Emailing,Desktop,1-10,SaaS,Bretagne,MQL,1500,60000,1800,150
+211,2025-10-12,Google Ads,Tablet,10-50,HealthTech,Bourgogne-Franche-Comté,SQL,4200,120000,3200,260
+212,2025-10-13,LinkedIn Ads,Desktop,50-100,Retail,Normandie,Client,3800,50000,1100,95
+213,2025-10-14,Emailing,Mobile,1-10,Education,Centre-Val de Loire,MQL,1500,60000,1800,150
+214,2025-10-15,Google Ads,Desktop,100-500,Industry,Île-de-France,SQL,4200,120000,3200,260
+215,2025-10-16,LinkedIn Ads,Mobile,50-100,SaaS,Pays de la Loire,Client,3800,50000,1100,95
+216,2025-10-17,Emailing,Desktop,1-10,Finance,Hauts-de-France,MQL,1500,60000,1800,150
+217,2025-10-18,Google Ads,Tablet,10-50,HealthTech,Occitanie,SQL,4200,120000,3200,260
+218,2025-10-19,LinkedIn Ads,Desktop,50-100,Retail,Auvergne-Rhône-Alpes,Client,3800,50000,1100,95
+219,2025-10-20,Emailing,Mobile,1-10,Education,Nouvelle-Aquitaine,MQL,1500,60000,1800,150
+220,2025-10-21,Google Ads,Desktop,100-500,SaaS,Grand Est,SQL,4200,120000,3200,260
+221,2025-10-22,LinkedIn Ads,Mobile,50-100,Finance,Île-de-France,Client,3800,50000,1100,95
+222,2025-10-23,Emailing,Desktop,1-10,Industry,Bretagne,MQL,1500,60000,1800,150
+223,2025-10-24,Google Ads,Tablet,10-50,Retail,Bourgogne-Franche-Comté,SQL,4200,120000,3200,260
+224,2025-10-25,LinkedIn Ads,Desktop,50-100,Education,Normandie,Client,3800,50000,1100,95
+225,2025-10-26,Emailing,Mobile,1-10,HealthTech,Centre-Val de Loire,MQL,1500,60000,1800,150
+226,2025-10-27,Google Ads,Desktop,100-500,SaaS,Île-de-France,SQL,4200,120000,3200,260
+227,2025-10-28,LinkedIn Ads,Mobile,50-100,Industry,Pays de la Loire,Client,3800,50000,1100,95
+228,2025-10-29,Emailing,Desktop,1-10,Finance,Hauts-de-France,MQL,1500,60000,1800,150
+229,2025-10-30,Google Ads,Tablet,10-50,Retail,Occitanie,SQL,4200,120000,3200,260
+230,2025-10-31,LinkedIn Ads,Desktop,50-100,Education,Auvergne-Rhône-Alpes,Client,3800,50000,1100,95
